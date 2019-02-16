@@ -1,2 +1,6 @@
 $ cd Code$ mkdir CV && cd CV
 $ git init
+$ wget http://labfile.oss.aliyuncs.com/courses/624/cv-template.zip
+$ unzip cv-template
+$ mv cv-template/* .
+$ rm -rf cv-template* __MACOSX*
